@@ -1,9 +1,16 @@
-# Python Mercado Financeiro
+# Correlação de Ativos
 
-## Meu primeiro projeto pessoal em Python
+## Sobre o projeto
 
-Este é o meu primeiro projeto desenvolvido fora de cursos e exercícios.
+Este é o meu primeiro projeto pessoal desenvolvido em Python.
 
-Como faço day trade, decidi criar um projeto relacionado ao mercado financeiro e ao que acompanho diariamente.
+Como faço day trade, decidi criar uma ferramenta relacionada ao mercado financeiro e aos estudos que realizo diariamente. O objetivo é analisar a relação histórica entre diferentes ativos utilizando dados do Yahoo Finance e visualizar essas informações através de gráficos.
 
-Neste projeto utilizo Python, Pandas, yFinance e Plotly para analisar o comportamento histórico do Ibovespa e do dólar. A ideia é visualizar a relação entre esses dois ativos e observar como, no longo prazo, costumam apresentar uma correlação negativa.
+## Objetivo
+
+Estudar a correlação entre ativos financeiros para entender como seus movimentos se relacionam ao longo do tempo.
+
+A primeira análise compara:
+
+- Ibovespa
+- Dólar (USD/BRL)
